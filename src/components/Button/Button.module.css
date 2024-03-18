@@ -1,0 +1,16 @@
+button{
+  color: var(--gray-100);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 140%;
+  width: 100%;
+  max-width: 167px;
+  min-width: 167px;
+  background-color: var(--blue-dark);
+  padding: 16px 0px;
+  border-radius: 8px;
+  transition: all .2s;
+}
+button:hover{
+  filter: brightness(0.8);
+}

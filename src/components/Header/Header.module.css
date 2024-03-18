@@ -1,0 +1,26 @@
+header{
+  width: 100%;
+  padding: 60px 0px;
+  background-color: var(--gray-700);
+}
+.title{
+  color: var(--blue-light);
+  font-size: 40px;
+  font-weight: 900;
+}
+.subtitle{
+  width: 100%;
+  max-width: 300px;
+  margin-top: 20px;
+  line-height: 20px;
+}
+.container{
+  width: 100%;
+  max-width: 1216px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
