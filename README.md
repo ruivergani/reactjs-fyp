@@ -3,25 +3,29 @@
 </p>
 
 <p align="center" margin-top="25px" >
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ruivergani/portfolio" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ruivergani/reactjs-fyp" />
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ruivergani/portfolio" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ruivergani/reactjs-fyp" />
 </p>
 
-Welcome to my Front-End Developer Portfolio repository! Here, you'll find a showcase of my skills, projects, and experiences in the world of front-end web development.
+This project aims to conduct a comprehensive comparative study on the three popular JavaScript frameworks/libraries: React.js, Vue.js, and Angular, focusing on their suitability and performance in Single-Page Application (SPA) development. Alongside the study, the project also involves the development of algorithms for evaluating these frameworks based on various criteria.
 ___
 
-## 💻 About 
+## 💻 Objectives 
 
-I'm passionate about crafting immersive and user-centric web experiences. With a strong foundation in React JS, HTML, CSS, and JavaScript, I strive to create visually appealing and highly functional websites. My journey in web development has been a combination of learning, experimentation, and pushing the boundaries of creativity.
+The primary objectives of this project are:
 
+- To compare the key features, strengths, and weaknesses of React.js, Vue.js, and Angular.
+- To assess the performance metrics such as speed, memory usage, and rendering capabilities of each framework.
+- To develop algorithms that can objectively evaluate the suitability of each framework for different types of SPA projects.
+- To provide insights and recommendations for developers and organizations in selecting the appropriate framework for their projects.
 ___
 
 ## 🎨 Layout
 The page in desktop format is seen in the image below:
 
+![Screenshot 2024-03-19 at 12 25 07](https://github.com/ruivergani/reactjs-fyp/assets/70537459/231e96ab-d778-4b61-8124-4553808eda57)
 
-![linkedin_post](https://user-images.githubusercontent.com/70537459/222933593-cbb7377e-6d0b-4f52-8d12-a19ae6452fff.png)
 
 ___
 
@@ -46,7 +50,7 @@ ___
 Clone the project to the desired location on your computer.
 
 ```bash
-$ git clone git@github.com:ruivergani/portfolio.git
+$ git clone git@github.com:ruivergani/reactjs-fyp.git
 ```
 ___
 
@@ -54,7 +58,7 @@ ___
 ```bash
 
 # Navigate to the directory
-$ cd portfolio
+$ cd reactjs-fyp
 
 # Install the necessary dependencies
 $ sudo yarn
