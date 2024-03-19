@@ -21,6 +21,25 @@ The primary objectives of this project are:
 - To provide insights and recommendations for developers and organizations in selecting the appropriate framework for their projects.
 ___
 
+___
+
+## 💻 Methodology
+
+The primary objectives of this project are:
+
+- Literature Review: Conduct an extensive review of existing literature, articles, and documentation on React.js, Vue.js, and Angular to understand their core concepts, features, and performance characteristics.
+
+- Framework Comparison: Compare the features, syntax, ecosystem, learning curve, community support, and other relevant aspects of React.js, Vue.js, and Angular.
+
+- Performance Evaluation: Design and implement experiments to measure the performance metrics of each framework, including speed, memory consumption, and rendering efficiency.
+
+- Algorithm Development: Develop algorithms that take into account project requirements, scalability, performance, and other factors to objectively evaluate the suitability of each framework.
+
+- Implementation: Implement the algorithms in a practical setting by applying them to real-world SPA development scenarios.
+
+- Analysis and Recommendations: Analyze the results of the comparative study and algorithm evaluations to provide recommendations for selecting the most appropriate framework for specific project requirements.
+___
+
 ## 🎨 Layout
 The page in desktop format is seen in the image below:
 
