@@ -52,14 +52,23 @@ ___
 The following technologies were employed in the creation of this project:
 
 - React.js: A JavaScript library for building user interfaces, providing a component-based architecture for efficient development.
-JavaScript (ES6+): The primary programming language for React development, offering modern syntax and features.
+  
+- JavaScript (ES6+): The primary programming language for React development, offering modern syntax and features.
+
 - HTML: Used for structuring the web pages and JSX (JavaScript XML) within React components.
+  
 - CSS (or CSS-in-JS): Stylesheets or CSS-in-JS solutions for styling React components and layout.
+  
 - Node.js: A JavaScript runtime environment used for building server-side and networking applications. Often used for tooling and server-side rendering with React.
+  
 - npm or Yarn: Package managers for managing dependencies and scripts in the project.
+  
 - Jest or React Testing Library: Testing frameworks for unit and integration testing of React components and applications.
+  
 - Git: Version control system for tracking changes in the project codebase and collaborating with other developers.
+  
 - GitHub: A platform for hosting Git repositories and facilitating collaboration among developers.
+  
 
 These technologies collectively form the core toolset for developing modern web applications using React.js.
 
