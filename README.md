@@ -67,13 +67,10 @@ $ yarn
 # Start Development Server
 $ yarn dev
 
-![image](https://github.com/ruivergani/reactjs-fyp/assets/70537459/6b8d1bca-6218-4d00-82ff-862421cabc3f)
-
 # The terminal will display the local address where the application is running
   
 
 ```
-
 ___
 
 [Check the final result here](https://ruivergani.com/)
