@@ -26,22 +26,23 @@ The page in desktop format is seen in the image below:
 
 ![Screenshot 2024-03-19 at 12 25 07](https://github.com/ruivergani/reactjs-fyp/assets/70537459/231e96ab-d778-4b61-8124-4553808eda57)
 
-
 ___
 
 ## 🛠 Technologies
 
 The following technologies were employed in the creation of this project:
 
-- [GULP](https://gulpjs.com/)
-- [Swipper JS](https://swiperjs.com/)
-- [WordPress](https://wordpress.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [PHP](https://www.php.net/)
-- [SASS](https://sass-lang.com/)
-- HTML and CSS
-- Responsive to all sizes of screens
-- Multi-language website
+- React.js: A JavaScript library for building user interfaces, providing a component-based architecture for efficient development.
+JavaScript (ES6+): The primary programming language for React development, offering modern syntax and features.
+- HTML: Used for structuring the web pages and JSX (JavaScript XML) within React components.
+- CSS (or CSS-in-JS): Stylesheets or CSS-in-JS solutions for styling React components and layout.
+- Node.js: A JavaScript runtime environment used for building server-side and networking applications. Often used for tooling and server-side rendering with React.
+- npm or Yarn: Package managers for managing dependencies and scripts in the project.
+- Jest or React Testing Library: Testing frameworks for unit and integration testing of React components and applications.
+- Git: Version control system for tracking changes in the project codebase and collaborating with other developers.
+- GitHub: A platform for hosting Git repositories and facilitating collaboration among developers.
+
+These technologies collectively form the core toolset for developing modern web applications using React.js.
 
 ___
 
@@ -60,14 +61,16 @@ ___
 # Navigate to the directory
 $ cd reactjs-fyp
 
-# Install the necessary dependencies
-$ sudo yarn
+# Install Dependencies
+$ yarn
 
-# Run the GULP command
-$ gulp
+# Start Development Server
+$ yarn dev
 
-# The terminal will display the local address where the application is running:
-  http://localhost:3000/
+![image](https://github.com/ruivergani/reactjs-fyp/assets/70537459/6b8d1bca-6218-4d00-82ff-862421cabc3f)
+
+# The terminal will display the local address where the application is running
+  
 
 ```
 
